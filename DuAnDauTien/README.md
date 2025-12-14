@@ -63,3 +63,4 @@ Ein einfaches Simulationsprojekt zur Steuerung einer LED mit einem Taster (Pushb
                              |
                              +
 ```
+![Schematic](schematic.png)
