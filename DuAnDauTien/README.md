@@ -12,7 +12,6 @@
 
 ## 🛠 Liste der Komponenten (Component List)
 
-```text
 | Name | Menge (Quantity) | Komponente (Component) |
 | :--- | :---: | :--- |
 | U1 | 1 | Arduino Uno R3 |
@@ -20,7 +19,6 @@
 | R1 | 1 | 220 Ω Widerstand (Resistor) |
 | S1 | 1 | Drucktaster (Pushbutton) |
 | R2 | 1 | 1 kΩ Widerstand (Resistor) |
-```
 
 ```text
 +-------------------------+
@@ -70,6 +68,7 @@
                              +
 ```
 ![Schematic](schematic.png)
+
 
 
 
