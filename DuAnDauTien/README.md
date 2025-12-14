@@ -1,10 +1,8 @@
 
 # Arduino Button LED Control
 
-Ziel:
 Ein einfaches Simulationsprojekt zur Steuerung einer LED mit einem Taster (Pushbutton). Das System verwendet den **internen Pull-up-Widerstand** des Arduino Uno und basiert auf der **Active-Low-Logik**.
 
-Was ich lernen:
 * **Hardware:** Arduino Uno R3, LED (Rot), Taster, Widerstände.
 * **Technik:** Input Pullup, Entprellen (Debouncing), Common Ground.
 
@@ -66,4 +64,5 @@ Was ich lernen:
                              +
 ```
 ![Schematic](schematic.png)
+
 
